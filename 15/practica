@@ -1,0 +1,11 @@
+
+Practica con Listas
+
+lista="Odooenviromentonwhichtheactionistrigered"
+
+listavacia=[]
+for i in lista:
+	listavacia.append(i)
+	
+print(listavacia)
+
